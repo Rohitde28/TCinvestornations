@@ -55,9 +55,20 @@ nav ul li a {
   text-align: left;
   margin-left: 122px;
   margin-top: 60px;
-  margin-bottom: 60px;
+  margin-bottom: 20px;
   font-family: 'Roboto', sans-serif;
   font-size: 44px;
+  color: #39363D;
+  border-radius: nullpx;
+
+}
+.tcheader-small{
+  text-align: left;
+  margin-left: 122px;
+  margin-top: 30px;
+  margin-bottom: 60px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
   color: #39363D;
   border-radius: nullpx;
 
